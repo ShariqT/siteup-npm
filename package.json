@@ -1,0 +1,31 @@
+{
+  "name": "siteup-npm",
+  "version": "1.0.0",
+  "description": "CLI tool to quickly deploy static websites to a live server",
+  "main": "index.js",
+  "bin": {
+    "siteup": "index.js"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "deployment",
+    "static",
+    "websites",
+    "live"
+  ],
+  "author": "Shariq Torres",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "lowdb": "^0.15.5",
+    "node-status": "^1.0.0",
+    "unirest": "^0.5.1"
+  },
+  "devDependencies": {
+    "intercept-stdout": "^0.1.2",
+    "jasmine": "^2.5.3",
+    "string-argv": "0.0.2"
+  }
+}
