@@ -1,12 +1,5 @@
 {
   "sites": [
-    {
-      "name": "test3",
-      "hash": "QmTirmQy6ervv5iBViMnX3xMadnf9rVNgDQWEesesbWd3W"
-    },
-    {
-      "name": "loose",
-      "hash": "QmUWzF9BerzGe8gwhFuVVK5JNe1cwS73wF6Sz6GxxF8V5B"
-    }
+    
   ]
 }
